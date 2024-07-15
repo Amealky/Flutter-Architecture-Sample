@@ -1,6 +1,8 @@
 ``Reupload project from 2022 : This project was recovered so don't take commits into accounts``
 
-# Flutter Architecture Sample 🎯
+
+ <h1 align="center">🎯 Flutter Architecture Sample 🎯</h1>
+
 
 This project is an architecture experimentation project for [Flutter](https://flutter.dev/)
 
